@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+![AI Engineer Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C6FF,100:0072FF&text=Naeem%20Yousaf%20👋&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40)
+
+---
+
 # 👋 Hi, I’m Naeem Yousaf  
 🚀 **AI Engineer | Agentic Systems Developer**
 
