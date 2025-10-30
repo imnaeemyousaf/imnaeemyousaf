@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-![Lets Grow Together ](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C6FF,100:0072FF&text=Naeem%20Yousaf%20👋&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40)
+![Let's Grow Together Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:9D50BB,100:6E48AA&text=Let's%20Grow%20Together%20🌱&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40)
+
 
 ---
 
