@@ -26,11 +26,11 @@ Currently focused on **LangChain**, **LangGraph**, **MCP Servers**, and **RAG** 
 AI-powered finance assistant using MCP + Vision AI for expense insights.  
 `Next.js` · `LangChain` · `Supabase` · `Claude`
 
-#### 🍽️ [DineWise](https://github.com/naeem-ai/DineWise)  
+#### 🍽️ [DineWise](https://github.com/imnaeemyousaf/dinewise)  
 Restaurant assistant for menu Q&A and health-based recommendations.  
 `LangChain` · `React.js` · `Groq (Llama 3.3)`
 
-#### 🧭 [CodePilot](https://github.com/naeem-ai/CodePilot)  
+#### 🧭 [CodePilot](https://github.com/dsoltech/coding-assistant)  
 Repo-understanding agent powered by LangGraph + Claude.  
 `Python` · `Tree-sitter` · `FastAPI`
 
